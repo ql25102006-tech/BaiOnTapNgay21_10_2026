@@ -9,5 +9,5 @@
 ## KẾT QUẢ THỰC HÀNH 
 ### Video Demo Hoạt Động Ứng Dụng 
 
-(https://github.com/user-attachments/assets/2b8aef2e-416f-4415-a22a-f0868cbc5e61)
+https://github.com/user-attachments/assets/2b8aef2e-416f-4415-a22a-f0868cbc5e61
 
