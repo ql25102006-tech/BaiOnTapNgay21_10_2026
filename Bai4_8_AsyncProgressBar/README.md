@@ -9,6 +9,6 @@
 ## KẾT QUẢ THỰC HÀNH 
 ### Video Demo Hoạt Động Ứng Dụng 
 
-<video src="./screenshots/demo.mp4" controls="controls" width="100%"></video>
+▶️ **[Xem Video Demo trực tiếp trên GitHub](./screenshots/demo.mp4)**
 
-> 🔗 **Đường dẫn tệp video:** [Xem / Tải Video Demo](./screenshots/demo.mp4)
+<video src="./screenshots/demo.mp4" controls="controls" width="100%"></video>
